@@ -4,9 +4,9 @@ Hi 👋 My name is Dmitriy Demenko
 Frontend-developer
 ------------------
 
-*   🌍  I'm based in M
+*   🌍  I'm based in Moskow
 *   ✉️  You can contact me at [dmd-work@yandex.ru](mailto:dmd-work@yandex.ru)
-*   🧠  I'm learning GO
+*   🧠  I'm learning JavaScript
 
 ### Skills 
 <p align="left">
@@ -24,10 +24,6 @@ Frontend-developer
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
                     
-
-                  ### Socials
-                  
-                  <p align="left"> <a href="https://discord.com/users/Деменко Дмитрий#2950" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/rocketDim" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/dmitriy-demenko-911b19260/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/21527441/dmitriy-demenko" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
