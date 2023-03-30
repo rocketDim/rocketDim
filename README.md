@@ -1,12 +1,12 @@
-Hi 👋 My name is Dmitriy Demenko
-================================
+Привет! 👋 Меня зовут Дмитрий Деменко
+=====================================
 
-Frontend-developer
-------------------
+Я Frontend-developer
+---------------------
 
-*   🌍  I'm based in Moskow
-*   ✉️  You can contact me at [dmd-work@yandex.ru](mailto:dmd-work@yandex.ru)
-*   🧠  I'm learning JavaScript
+*   🌍  Живу в городе Москва
+*   ✉️  Со мной можно связаться [dmd-work@yandex.ru](mailto:dmd-work@yandex.ru)
+*   🧠  Изучаю JavaScript
 
 ### Skills 
 <p align="left">
