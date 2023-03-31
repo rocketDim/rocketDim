@@ -6,7 +6,7 @@
 
 *   🌍  Живу в городе Москва
 *   ✉️  Со мной можно связаться [dmd-work@yandex.ru](mailto:dmd-work@yandex.ru)
-*   🧠  Изучаю JavaScript
+*   🧠  Изучаю JavaScript (React)
 
 ### Skills 
 <p align="left">
