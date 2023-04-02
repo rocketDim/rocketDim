@@ -1,12 +1,12 @@
-Hi 👋 My name is Dmitriy
-========================
+Привет! 👋 Меня зовут Дмитрий
+=============================
 
 Frontend-developer
 ------------------
 
-*   🌍  I'm based in Moscow
-*   ✉️  You can contact me at [dmd-work@yandex.ru](mailto:dmd-work@yandex.ru)
-*   🧠  I'm learning JavaScript (React)
+*   🌍  Живу в Москве
+*   ✉️  Со мной можно связаться [dmd-work@yandex.ru](mailto:dmd-work@yandex.ru)
+*   🧠  Изучаю JavaScript (React)
 
 ### Skills 
 <p align="left">
@@ -24,9 +24,9 @@ Frontend-developer
 </p>
                     
 
-                  ### Socials
+### Socials
                   
-                  <p align="left"> <a href="https://discord.com/users/Деменко Дмитрий#2950" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/rocketDim" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/dmitriy-demenko-911b19260/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/21527441/dmitriy-demenko" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://discord.com/users/Деменко Дмитрий#2950" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/rocketDim" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/dmitriy-demenko-911b19260/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/21527441/dmitriy-demenko" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
